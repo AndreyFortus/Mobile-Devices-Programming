@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab_4</string>
+    <string name="main_page">Main page</string>
+    <string name="button_second_act">Second page</string>
+    <string name="button_third_page">Third page</string>
+    <string name="switch_main_page">Switch</string>
+    <string name="text_second_act">Second page</string>
+    <string name="button">Button</string>
+    <string name="rate">Rate</string>
+    <string name="back">Back</string>
+    <string name="calendar">Calendar</string>
+    <string name="close">Close</string>
+</resources>
