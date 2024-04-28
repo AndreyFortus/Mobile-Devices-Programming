@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_5</string>
+    <string name="change_text">Click buttons to change text!</string>
+    <string name="button_top_right">Change text color to red</string>
+    <string name="button_top_left">"Click to change text "</string>
+    <string name="lab_5">Lab 5</string>
+    <string name="switch_top">Change buttons color</string>
+    <string name="input">Input something here</string>
+    <string name="input_change_text">Nothing ...</string>
+</resources>
