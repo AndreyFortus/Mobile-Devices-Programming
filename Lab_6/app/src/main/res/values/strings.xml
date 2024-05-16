@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab_6</string>
+    <string name="textview_main_activity">Main page</string>
+    <string name="textview_second_activity">Second page</string>
+    <string name="textview_third_activity">Third page</string>
+    <string name="button_page_main">Main Page</string>
+    <string name="button_page_2">Page 2</string>
+    <string name="button_page_3">Page 3</string>
+    <string name="button_cliks">Click!</string>
+    <string name="count_of_clicks">0</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="username">Username</string>
+
+
+</resources>
