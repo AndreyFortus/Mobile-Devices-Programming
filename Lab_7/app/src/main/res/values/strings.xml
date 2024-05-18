@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab_7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="fragment">Fragment</string>
+    <string name="start">Start</string>
+    <string name="name">Name</string>
+    <string name="_2_fragment">2 Fragment</string>
+</resources>
