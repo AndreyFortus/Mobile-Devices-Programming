@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_8</string>
+    <string name="vertical_list">Vertical list</string>
+    <string name="horizontal_list">Horizontal list using Glide</string>
+</resources>
